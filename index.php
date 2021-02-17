@@ -15,7 +15,6 @@
             <th scope="col">At home</th>
         </tr>
 
-
         <?php
 
         $output = shell_exec("./myscript.sh");
